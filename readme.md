@@ -50,6 +50,7 @@ Eksempel på bruk
 ----------------
 
 Når scriptet kjører, vil det annonsere taperen slik:
+
 ![image info](./img.png)
 
 Stemmen vil også kunngjøre taperen høyt.
